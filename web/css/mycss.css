@@ -1,0 +1,46 @@
+.mishadow {
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
+}
+#ccaa, #provincia,
+#municipio {
+    min-width: 200px;
+}
+.miimg-sm {
+    width: 30px;
+    height: auto;
+}
+.fa-info-circle {
+    font-size: 32px;
+    color: red;
+}
+.fa-star-half-alt {
+    font-size: 32px;
+    color: #fbe111;
+}
+
+.midetalle {
+    background-color: #6a79ff;
+    color: white;
+}
+.imgdetalle {
+    width: auto;
+    max-width: 70%;
+}
+.caritas a {
+    width: auto;
+    max-width: 20%;
+}
+.caritas a img {
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.mi-w {
+    width: 60px;
+    height: auto;
+}
+.fs-60 {
+    font-size: 60px;
+}
